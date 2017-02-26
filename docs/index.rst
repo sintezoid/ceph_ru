@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Добро пожаловать в FAQ канла @pro_openstack.
+Добро пожаловать в FAQ канала telegram `pro_openstack <https://t.me/pro_openstack>`_
 ===================================
 
 .. toctree::
